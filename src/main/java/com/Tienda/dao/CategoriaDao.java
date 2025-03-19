@@ -1,5 +1,5 @@
 package com.Tienda.dao;
-import com.tienda.domain.Categoria;
+import com.Tienda.domain.Categoria;
 import org.springframework.data.jpa.repository.JpaRepository;
 /**
  *

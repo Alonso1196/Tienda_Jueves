@@ -1,6 +1,6 @@
 
 package com.Tienda.service;
-import com.tienda.domain.Categoria;
+import com.Tienda.domain.Categoria;
 import java.util.List;
 /**
  *
